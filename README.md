@@ -105,7 +105,7 @@ Use `rails new` to set up a new project. As you work, be sure to create a flow o
 * Then delete your old branch after successfully merging to `master`.
 * Rinse and repeat.
 
-**Note:** There is no `spec` directory. Your goal is to use [Behavior Driven Development (BDD)](https://en.wikipedia.org/wiki/Behavior-driven_development) to confirm that your code is doing what it should. This means instead of running `rspec` or `learn`, you should frequently be opening up the `rails console` or running your server with `rails server` and confirming that your app works the way you want it to.
+**Note:** There is no `spec` directory. Your goal is to use [Behavior Driven Development (BDD)](https://en.wikipedia.org/wiki/Behavior-driven_development) to confirm that your code is doing what it should. This means instead of running `rspec` or `learn test`, you should frequently be opening up the `rails console` or running your server with `rails server` and confirming that your app works the way you want it to.
 
 ---
 
